@@ -5,4 +5,5 @@
 * Compilation and execution instructions
   * `gcc -o piku piku.s`
   * `./piku`
+* No issues encountered
 
